@@ -167,7 +167,7 @@ header a:hover{
 }
 
 #service{
-  background-image: url(..img/service.png);
+  background-image: url(../img/service.png);
   background-size: cover;
   display: inline-block;
   padding-left: 10%;
@@ -200,7 +200,7 @@ header a:hover{
   margin: 5px 0;
 }
 
-.servicebox h2{
+.serviceBox h2{
   font-size: 18px;
   margin: 10px 0;
 }
@@ -227,7 +227,7 @@ header a:hover{
   margin: 0 auto 5%;
 }
 
-#contactForm{
+.contactForm{
   background: #0b0b0b;
   color: #7d8186;
   padding: 50px 25px;
